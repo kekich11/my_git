@@ -1,0 +1,5 @@
+require("core.plugin_config.gruvbox")
+require("core.plugin_config.flake8")
+require("core.plugin_config.lsp")
+require("core.plugin_config.telescope")
+require("core.plugin_config.tree_sitter")
